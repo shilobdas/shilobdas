@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Fastapi
 - 🤔 I’m looking for help with Fastapi
 - 💬 Ask me about pandas
-- 📫 How to reach me: 
+- 📫 How to reach me: shilob1234@gmail.com ,shilob2018@gmail.com
 
